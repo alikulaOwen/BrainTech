@@ -1,5 +1,5 @@
 import React from "react";
-import "./About.css";
+import "../styles/About.css";
 import aboutImg from "./img/logoa.png";
 function About() {
   //  Up To Top Btn
